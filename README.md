@@ -1,6 +1,7 @@
 # My-portfolio
  A responsive and interactive personal profile card built using HTML, CSS, and JavaScript. The project showcases basic UI/UX design with animations and includes functionality to share the profile via social media links.
- 
+
+ ## Preview
 ![Screenshot 2025-01-06 015645](https://github.com/user-attachments/assets/89aa3740-95a8-4914-80dd-7a624547fef6)
 ![Screenshot 2025-01-06 015704](https://github.com/user-attachments/assets/16778ee3-3ce3-4b8c-bba7-4660d6fae833)
 
